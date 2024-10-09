@@ -142,7 +142,7 @@ def show_all_users(message):
 
 @bot.message_handler(commands=['owner'])
 def show_owner(message):
-    response = "👑 Bot Owner: @dedicating_gaming"  # Replace with the actual owner username
+    response = "👑 Bot Owner: @demog1 "  # Replace with the actual owner username
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['add'])
@@ -186,7 +186,7 @@ def add_user(message):
                     user_access[user_to_add] = {"expiry_time": expiry_timestamp}
                     # Save user access data
                     save_user_access(user_access)
-                    response = f"User {user_to_add} approved for {time_value} {time_unit} by @dedicating_gaming.\n\n\n 🅑🅞🅣 🅛🅘🅝🅚: @dedicating_bot"
+                    response = f"User {user_to_add} approved for {time_value} {time_unit} by @demog1 .\n\n\n 🅑🅞🅣 🅛🅘🅝🅚: soon"
                 else:
                     response = "User already exists."
             except ValueError:
@@ -194,7 +194,7 @@ def add_user(message):
         else:
             response = "Please specify a user ID followed by a positive integer with minute(s), hour(s), day(s), or month(s). \n\nExample Usage: /add 9999999999 3 hours('minutes', 'hours', 'days', or 'months')"
     else:
-        response = "Only @dedicating_gaming can run this command."
+        response = "Only @demog1 can run this command."
 
     bot.reply_to(message, response)
 
