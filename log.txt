@@ -1,0 +1,433 @@
+UserID: 1732447892 | Time: 2024-10-07 18:58:28.503459 | Command: /attack | Target: 20.235.93.135 | Port: 23074 | Time: 180
+Username: @demog1
+Target: 20.235.93.135
+Port: 23074
+Time: 180
+
+UserID: 1732447892 | Time: 2024-10-08 08:55:56.416845 | Command: /attack | Target: 4.213.66.126 | Port: 12986 | Time: 200
+Username: @demog1
+Target: 4.213.66.126
+Port: 12986
+Time: 200
+
+UserID: 1732447892 | Time: 2024-10-08 10:28:16.342954 | Command: /attack | Target: 20.235.88.156 | Port: 18756 | Time: 360
+Username: @demog1
+Target: 20.235.88.156
+Port: 18756
+Time: 360
+
+UserID: 7063157026 | Time: 2024-10-08 13:16:28.720561 | Command: /attack | Target: 20.204.191.52 | Port: 10075 | Time: 200
+Username: UserID: 7063157026
+Target: 20.204.191.52
+Port: 10075
+Time: 200
+
+UserID: 7063157026 | Time: 2024-10-08 15:48:53.987937 | Command: /attack | Target: 52.230.15.159 | Port: 17500 | Time: 120
+Username: UserID: 7063157026
+Target: 52.230.15.159
+Port: 17500
+Time: 120
+
+UserID: 7063157026 | Time: 2024-10-08 15:49:22.166893 | Command: /attack | Target: 20.198.74.232 | Port: 22188 | Time: 120
+Username: UserID: 7063157026
+Target: 20.198.74.232
+Port: 22188
+Time: 120
+
+UserID: 7063157026 | Time: 2024-10-08 15:52:07.666116 | Command: /attack | Target: 4.213.66.155 | Port: 25574 | Time: 200
+Username: UserID: 7063157026
+Target: 4.213.66.155
+Port: 25574
+Time: 200
+
+UserID: 7063157026 | Time: 2024-10-08 15:55:06.086395 | Command: /attack | Target: 20.198.79.189 | Port: 27771 | Time: 200
+Username: UserID: 7063157026
+Target: 20.198.79.189
+Port: 27771
+Time: 200
+
+UserID: 7063157026 | Time: 2024-10-08 15:57:24.823127 | Command: /attack | Target: 52.172.12.33 | Port: 10431 | Time: 200
+Username: UserID: 7063157026
+Target: 52.172.12.33
+Port: 10431
+Time: 200
+
+UserID: 1732447892 | Time: 2024-10-08 16:01:46.031745 | Command: /attack | Target: 20.198.78.30 | Port: 29766 | Time: 220
+Username: @demog1
+Target: 20.198.78.30
+Port: 29766
+Time: 220
+
+UserID: 7063157026 | Time: 2024-10-08 16:02:44.383667 | Command: /attack | Target: 4.213.64.4 | Port: 13600 | Time: 200
+Username: UserID: 7063157026
+Target: 4.213.64.4
+Port: 13600
+Time: 200
+
+UserID: 1732447892 | Time: 2024-10-08 16:05:30.184032 | Command: /attack | Target: 20.198.78.30 | Port: 29766 | Time: 220
+Username: @demog1
+Target: 20.198.78.30
+Port: 29766
+Time: 220
+
+UserID: 7063157026 | Time: 2024-10-08 16:06:11.436343 | Command: /attack | Target: 20.219.166.126 | Port: 17787 | Time: 120
+Username: UserID: 7063157026
+Target: 20.219.166.126
+Port: 17787
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-08 16:20:00.629282 | Command: /attack | Target: 20.235.89.82 | Port: 23244 | Time: 330
+Username: @demog1
+Target: 20.235.89.82
+Port: 23244
+Time: 330
+
+UserID: 1732447892 | Time: 2024-10-08 16:23:26.980911 | Command: /attack | Target: 20.212.22.90 | Port: 17500 | Time: 160
+Username: @demog1
+Target: 20.212.22.90
+Port: 17500
+Time: 160
+
+UserID: 1732447892 | Time: 2024-10-08 16:28:41.973195 | Command: /attack | Target: 20.212.22.90 | Port: 17500 | Time: 10
+Username: @demog1
+Target: 20.212.22.90
+Port: 17500
+Time: 10
+
+UserID: 1732447892 | Time: 2024-10-08 16:37:14.885296 | Command: /attack | Target: 4.213.64.249 | Port: 16837 | Time: 220
+Username: @demog1
+Target: 4.213.64.249
+Port: 16837
+Time: 220
+
+UserID: 1732447892 | Time: 2024-10-08 16:40:11.220525 | Command: /attack | Target: 20.198.74.110 | Port: 26230 | Time: 330
+Username: @demog1
+Target: 20.198.74.110
+Port: 26230
+Time: 330
+
+UserID: 7063157026 | Time: 2024-10-09 08:50:52.832628 | Command: /attack | Target: 20.204.159.247 | Port: 29382 | Time: 200
+Username: UserID: 7063157026
+Target: 20.204.159.247
+Port: 29382
+Time: 200
+
+UserID: 7063157026 | Time: 2024-10-09 08:50:54.819710 | Command: /attack | Target: 20.204.19.179 | Port: 11045 | Time: 360
+Username: UserID: 7063157026
+Target: 20.204.19.179
+Port: 11045
+Time: 360
+
+UserID: 7063157026 | Time: 2024-10-09 08:54:17.691500 | Command: /attack | Target: 20.204.16.98 | Port: 10649 | Time: 120
+Username: UserID: 7063157026
+Target: 20.204.16.98
+Port: 10649
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-09 08:56:26.793870 | Command: /attack | Target: 52.172.26.156 | Port: 18556 | Time: 30
+Username: @demog1
+Target: 52.172.26.156
+Port: 18556
+Time: 30
+
+UserID: 1732447892 | Time: 2024-10-09 09:01:02.698836 | Command: /attack | Target: 52.172.26.156 | Port: 18556 | Time: 300
+Username: @demog1
+Target: 52.172.26.156
+Port: 18556
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-09 09:02:38.620229 | Command: /attack | Target: 52.172.26.156 | Port: 18556 | Time: 160
+Username: @demog1
+Target: 52.172.26.156
+Port: 18556
+Time: 160
+
+UserID: 1732447892 | Time: 2024-10-09 09:05:17.693131 | Command: /attack | Target: 13.76.102.115 | Port: 17500 | Time: 60
+Username: @demog1
+Target: 13.76.102.115
+Port: 17500
+Time: 60
+
+UserID: 1732447892 | Time: 2024-10-09 09:10:09.696884 | Command: /attack | Target: 20.219.161.183 | Port: 26855 | Time: 30
+Username: @demog1
+Target: 20.219.161.183
+Port: 26855
+Time: 30
+
+UserID: 1732447892 | Time: 2024-10-09 09:13:21.850534 | Command: /attack | Target: 20.219.161.183 | Port: 26855 | Time: 300
+Username: @demog1
+Target: 20.219.161.183
+Port: 26855
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-09 09:16:23.309867 | Command: /attack | Target: 20.219.161.183 | Port: 26855 | Time: 120
+Username: @demog1
+Target: 20.219.161.183
+Port: 26855
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-09 09:22:27.815560 | Command: /attack | Target: 20.219.161.183 | Port: 26855 | Time: 120
+Username: @demog1
+Target: 20.219.161.183
+Port: 26855
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-09 09:35:57.449200 | Command: /attack | Target: 20.198.108.71 | Port: 12950 | Time: 360
+Username: @demog1
+Target: 20.198.108.71
+Port: 12950
+Time: 360
+
+UserID: 1732447892 | Time: 2024-10-09 09:46:56.618390 | Command: /attack | Target: 20.198.108.71 | Port: 12950 | Time: 10
+Username: @demog1
+Target: 20.198.108.71
+Port: 12950
+Time: 10
+
+UserID: 1732447892 | Time: 2024-10-09 09:53:28.486084 | Command: /attack | Target: 20.198.107.137 | Port: 17055 | Time: 520
+Username: @demog1
+Target: 20.198.107.137
+Port: 17055
+Time: 520
+
+UserID: 1732447892 | Time: 2024-10-09 10:11:20.473471 | Command: /attack | Target: 20.235.150.68 | Port: 13735 | Time: 520
+Username: @demog1
+Target: 20.235.150.68
+Port: 13735
+Time: 520
+
+UserID: 1732447892 | Time: 2024-10-09 10:30:14.756053 | Command: /attack | Target: 20.235.94.233 | Port: 16934 | Time: 520
+Username: @demog1
+Target: 20.235.94.233
+Port: 16934
+Time: 520
+
+UserID: 1732447892 | Time: 2024-10-10 09:07:31.054010 | Command: /attack | Target: 52.140.18.42 | Port: 13762 | Time: 520
+UserID: 1732447892 | Time: 2024-10-10 09:08:14.191880 | Command: /attack | Target: 52.140.18.42 | Port: 13762 | Time: 520
+Username: @demog1
+Target: 52.140.18.42
+Port: 13762
+Time: 520
+
+UserID: 1732447892 | Time: 2024-10-10 09:26:47.213390 | Command: /attack | Target: 20.204.76.186 | Port: 11160 | Time: 510
+Username: @demog1
+Target: 20.204.76.186
+Port: 11160
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-10 09:51:02.509977 | Command: /attack | Target: 20.198.79.2 | Port: 26042 | Time: 290
+Username: @demog1
+Target: 20.198.79.2
+Port: 26042
+Time: 290
+
+UserID: 1732447892 | Time: 2024-10-10 10:02:02.620845 | Command: /attack | Target: 20.198.110.192 | Port: 23207 | Time: 120
+Username: @demog1
+Target: 20.198.110.192
+Port: 23207
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-10 10:08:06.322159 | Command: /attack | Target: 20.198.72.155 | Port: 16249 | Time: 200
+Username: @demog1
+Target: 20.198.72.155
+Port: 16249
+Time: 200
+
+UserID: 1732447892 | Time: 2024-10-10 10:15:52.178155 | Command: /attack | Target: 20.198.72.155 | Port: 16249 | Time: 390
+Username: @demog1
+Target: 20.198.72.155
+Port: 16249
+Time: 390
+
+UserID: 1732447892 | Time: 2024-10-10 10:34:12.766051 | Command: /attack | Target: 20.198.79.189 | Port: 27912 | Time: 600
+Username: @demog1
+Target: 20.198.79.189
+Port: 27912
+Time: 600
+
+UserID: 1732447892 | Time: 2024-10-10 10:58:26.398127 | Command: /attack | Target: 20.204.191.184 | Port: 10392 | Time: 600
+Username: @demog1
+Target: 20.204.191.184
+Port: 10392
+Time: 600
+
+UserID: 1732447892 | Time: 2024-10-10 15:35:57.741165 | Command: /attack | Target: 20.204.21.89 | Port: 11179 | Time: 400
+Username: @demog1
+Target: 20.204.21.89
+Port: 11179
+Time: 400
+
+UserID: 1732447892 | Time: 2024-10-10 15:46:55.668759 | Command: /attack | Target: 20.204.21.89 | Port: 11179 | Time: 400
+Username: @demog1
+Target: 20.204.21.89
+Port: 11179
+Time: 400
+
+UserID: 1732447892 | Time: 2024-10-10 15:47:17.354075 | Command: /attack | Target: 20.204.21.89 | Port: 11179 | Time: 400
+Username: @demog1
+Target: 20.204.21.89
+Port: 11179
+Time: 400
+
+UserID: 1732447892 | Time: 2024-10-11 09:11:34.474029 | Command: /attack | Target: 20.204.16.243 | Port: 26921 | Time: 300
+Username: @demog1
+Target: 20.204.16.243
+Port: 26921
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-11 09:21:18.830500 | Command: /attack | Target: 20.204.16.243 | Port: 26921 | Time: 580
+Username: @demog1
+Target: 20.204.16.243
+Port: 26921
+Time: 580
+
+UserID: 1732447892 | Time: 2024-10-11 09:26:20.031246 | Command: /attack | Target: 20.204.88.3 | Port: 28092 | Time: 460
+Username: @demog1
+Target: 20.204.88.3
+Port: 28092
+Time: 460
+
+UserID: 1732447892 | Time: 2024-10-11 09:54:36.344207 | Command: /attack | Target: 20.219.165.125 | Port: 19608 | Time: 510
+Username: @demog1
+Target: 20.219.165.125
+Port: 19608
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-11 10:14:34.108290 | Command: /attack | Target: 20.235.51.232 | Port: 23331 | Time: 240
+Username: @demog1
+Target: 20.235.51.232
+Port: 23331
+Time: 240
+
+UserID: 1732447892 | Time: 2024-10-11 10:23:25.350221 | Command: /attack | Target: 20.204.16.14 | Port: 17132 | Time: 180
+Username: @demog1
+Target: 20.204.16.14
+Port: 17132
+Time: 180
+
+UserID: 1732447892 | Time: 2024-10-11 10:31:21.008360 | Command: /attack | Target: 20.204.16.14 | Port: 17132 | Time: 540
+Username: @demog1
+Target: 20.204.16.14
+Port: 17132
+Time: 540
+
+UserID: 1732447892 | Time: 2024-10-11 10:56:28.534085 | Command: /attack | Target: 20.235.92.240 | Port: 19621 | Time: 360
+Username: @demog1
+Target: 20.235.92.240
+Port: 19621
+Time: 360
+
+UserID: 1732447892 | Time: 2024-10-11 14:56:38.175330 | Command: /attack | Target: 20.198.107.132 | Port: 26756 | Time: 540
+Username: @demog1
+Target: 20.198.107.132
+Port: 26756
+Time: 540
+
+UserID: 1732447892 | Time: 2024-10-11 15:22:01.354227 | Command: /attack | Target: 4.213.68.40 | Port: 18848 | Time: 120
+Username: @demog1
+Target: 4.213.68.40
+Port: 18848
+Time: 120
+
+UserID: 1732447892 | Time: 2024-10-11 16:00:33.270890 | Command: /attack | Target: 20.198.101.129 | Port: 11679 | Time: 260
+Username: @demog1
+Target: 20.198.101.129
+Port: 11679
+Time: 260
+
+UserID: 1732447892 | Time: 2024-10-11 16:22:07.623430 | Command: /attack | Target: 4.213.64.206 | Port: 15577 | Time: 510
+Username: @demog1
+Target: 4.213.64.206
+Port: 15577
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-11 16:42:28.799143 | Command: /attack | Target: 20.204.176.194 | Port: 22748 | Time: 510
+Username: @demog1
+Target: 20.204.176.194
+Port: 22748
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-11 16:44:50.005131 | Command: /attack | Target: 20.204.176.194 | Port: 22748 | Time: 80
+Username: @demog1
+Target: 20.204.176.194
+Port: 22748
+Time: 80
+
+UserID: 1732447892 | Time: 2024-10-12 09:39:35.220753 | Command: /attack | Target: 20.219.6.21 | Port: 28308 | Time: 180
+Username: @demog1
+Target: 20.219.6.21
+Port: 28308
+Time: 180
+
+UserID: 1732447892 | Time: 2024-10-12 09:58:21.972831 | Command: /attack | Target: 20.235.14.171 | Port: 24977 | Time: 510
+Username: @demog1
+Target: 20.235.14.171
+Port: 24977
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-12 16:42:03.870717 | Command: /attack | Target: 4.213.68.40 | Port: 18600 | Time: 180
+Username: @demog1
+Target: 4.213.68.40
+Port: 18600
+Time: 180
+
+UserID: 1732447892 | Time: 2024-10-12 16:58:31.734930 | Command: /attack | Target: 20.204.16.48 | Port: 22894 | Time: 200
+Username: @demog1
+Target: 20.204.16.48
+Port: 22894
+Time: 200
+
+UserID: 1732447892 | Time: 2024-10-12 17:04:05.602676 | Command: /attack | Target: 20.204.16.48 | Port: 22894 | Time: 10
+Username: @demog1
+Target: 20.204.16.48
+Port: 22894
+Time: 10
+
+UserID: 1732447892 | Time: 2024-10-12 17:17:35.977687 | Command: /attack | Target: 20.204.88.3 | Port: 28460 | Time: 300
+Username: @demog1
+Target: 20.204.88.3
+Port: 28460
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-12 17:45:38.202217 | Command: /attack | Target: 20.198.74.78 | Port: 21133 | Time: 300
+Username: @demog1
+Target: 20.198.74.78
+Port: 21133
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-12 17:55:21.345899 | Command: /attack | Target: 20.235.143.83 | Port: 17228 | Time: 300
+Username: @demog1
+Target: 20.235.143.83
+Port: 17228
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-13 12:48:09.872557 | Command: /attack | Target: 20.235.19.91 | Port: 27025 | Time: 300
+Username: @demog1
+Target: 20.235.19.91
+Port: 27025
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-13 12:50:37.463828 | Command: /attack | Target: 20.235.19.91 | Port: 27025 | Time: 300
+Username: @demog1
+Target: 20.235.19.91
+Port: 27025
+Time: 300
+
+UserID: 1732447892 | Time: 2024-10-13 13:07:56.982407 | Command: /attack | Target: 20.204.189.186 | Port: 10495 | Time: 150
+Username: @demog1
+Target: 20.204.189.186
+Port: 10495
+Time: 150
+
+UserID: 1732447892 | Time: 2024-10-13 16:13:21.375860 | Command: /attack | Target: 20.235.92.127 | Port: 21219 | Time: 510
+Username: @demog1
+Target: 20.235.92.127
+Port: 21219
+Time: 510
+
+UserID: 1732447892 | Time: 2024-10-13 16:17:04.264599 | Command: /attack | Target: 20.235.92.127 | Port: 21219 | Time: 510
+Username: @demog1
+Target: 20.235.92.127
+Port: 21219
+Time: 510
+
